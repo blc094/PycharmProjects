@@ -1,0 +1,3 @@
+Some text of file 2 line 1
+some text of file 2 line 2
+Some text of file 2 line 3

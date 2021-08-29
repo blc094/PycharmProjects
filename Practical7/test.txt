@@ -1,0 +1,3 @@
+What is python language?
+Python is a widely used high-level, languages such as C++ or JAVA.
+Python supports multiple programming.
